@@ -1,0 +1,1 @@
+DSDT provided by Olarila. Battery does not work. Go to section 2.
