@@ -63,3 +63,4 @@
 6. **Bluetooth**: Natively works
 7. **NTFS write**: Install mounty ```brew cask install mounty```.
 8. **App store**: Works
+9. **Speakers**: Install VoodooHDA to fix speakers.
