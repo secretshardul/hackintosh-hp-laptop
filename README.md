@@ -28,7 +28,11 @@
 
 *Fixes sound and microphone*
 
-2. **Wifi**: Install driver for Railink USB dongle. **Don't install any other driver**.
+2. **Wifi**: To use native Intel Wifi chipset download 'itlwm.kext' from https://github.com/OpenIntelWireless/itlwm. Paste it in the EFI CLOVER\kexts\Other folder. Then install the WiFi client HeliPort from https://github.com/OpenIntelWireless/HeliPort.
+
+    Laptop Wifi chipset model: Intel(R) Dual Band Wireless-AC 3165 (supported model)
+
+    Dongle setup (old and unstable, don't use): Install driver for Railink USB dongle. **Don't install any other driver**.
 
     https://github.com/chris1111/Wireless-Ralink-Panel-Utility
 
